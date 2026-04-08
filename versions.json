@@ -1,1 +1,282 @@
-{}
+{
+  "AdminDeepCover": {
+    "local": "2.2.8",
+    "latest": "2.2.8",
+    "source": "uMod"
+  },
+  "AdminPanel": {
+    "local": "1.4.7",
+    "latest": "1.0.1",
+    "source": "Codefling"
+  },
+  "AdminRadar": {
+    "local": "5.4.2",
+    "latest": "1.0.0",
+    "source": "Codefling"
+  },
+  "AdvertMessages": {
+    "local": "3.0.2",
+    "latest": "3.0.2",
+    "source": "uMod"
+  },
+  "Airstrike": {
+    "local": "0.3.6",
+    "latest": "0.3.6",
+    "source": "uMod"
+  },
+  "BiomeWeedSystem": {
+    "local": "1.1.2",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "CargoConvoy": {
+    "local": "1.0.14",
+    "latest": "1.0.15",
+    "source": "Codefling"
+  },
+  "CombatLogInfo": {
+    "local": "1.0.13",
+    "latest": "1.0.12",
+    "source": "Codefling"
+  },
+  "CopyPaste": {
+    "local": "4.2.5",
+    "latest": "1.0.0",
+    "source": "Codefling"
+  },
+  "DeathNotes": {
+    "local": "6.5.4",
+    "latest": "6.5.5",
+    "source": "uMod"
+  },
+  "DiscordMessages": {
+    "local": "2.1.8",
+    "latest": "2.1.8",
+    "source": "uMod"
+  },
+  "DiscordWipe": {
+    "local": "2.4.3",
+    "latest": "2.4.3",
+    "source": "uMod"
+  },
+  "Duelist": {
+    "local": "1.3.9",
+    "latest": "1.4.0",
+    "source": "uMod"
+  },
+  "Economics": {
+    "local": "3.9.2",
+    "latest": "3.9.2",
+    "source": "uMod"
+  },
+  "ExtendedRecycler": {
+    "local": "1.2.6",
+    "latest": "1.2.7",
+    "source": "uMod"
+  },
+  "FerryTerminalEvent": {
+    "local": "1.2.0",
+    "latest": "1.1.5",
+    "source": "Codefling"
+  },
+  "ImageLibrary": {
+    "local": "2.0.63",
+    "latest": "2.0.64",
+    "source": "uMod"
+  },
+  "MiAdminPanelPlayers": {
+    "local": "1.0.2",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiAntiWipeF15": {
+    "local": "2.0.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiBuoyantHelicopters": {
+    "local": "2.2.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiCustomLoot": {
+    "local": "1.0.5",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiCustomTC": {
+    "local": "12.0.2",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiEventController": {
+    "local": "4.4.7",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiGlobalTasks": {
+    "local": "1.1.2",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiHordaNocturna": {
+    "local": "1.2.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiMagicAllInOnePanels": {
+    "local": "1.0.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiParkourPro": {
+    "local": "26.0.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiPerformanceMonitor": {
+    "local": "1.1.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiUniversalTranslator": {
+    "local": "3.0.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiVehicleSignals": {
+    "local": "1.1.3",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiVoteNight": {
+    "local": "1.3.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MonumentFinder": {
+    "local": "3.1.5",
+    "latest": "3.1.5",
+    "source": "uMod"
+  },
+  "NoGiveNotices": {
+    "local": "0.3.0",
+    "latest": "0.3.0",
+    "source": "uMod"
+  },
+  "NpcRaidEvent": {
+    "local": "1.0.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "NpcSpawn": {
+    "local": "3.1.9",
+    "latest": "3.3.0",
+    "source": "Codefling"
+  },
+  "OfflineRaidProtection": {
+    "local": "1.3.1",
+    "latest": "1.3.2",
+    "source": "Codefling"
+  },
+  "Paraplane": {
+    "local": "1.0.6",
+    "latest": "1.0.6",
+    "source": "Codefling"
+  },
+  "PermissionsManager": {
+    "local": "2.0.9",
+    "latest": "2.0.9",
+    "source": "Codefling"
+  },
+  "PlaceholderAPI": {
+    "local": "2.2.5",
+    "latest": "2.2.5",
+    "source": "uMod"
+  },
+  "PlayerAdministration": {
+    "local": "1.6.9",
+    "latest": "1.6.9",
+    "source": "uMod"
+  },
+  "PlaytimeTracker": {
+    "local": "0.2.2",
+    "latest": "0.2.2",
+    "source": "uMod"
+  },
+  "RainOfFire": {
+    "local": "0.2.52",
+    "latest": "0.2.52",
+    "source": "uMod"
+  },
+  "RemoverTool": {
+    "local": "4.3.46",
+    "latest": "1.0.0",
+    "source": "Codefling"
+  },
+  "RustAppLite": {
+    "local": "1.1.0",
+    "latest": "1.1.0",
+    "source": "Codefling"
+  },
+  "RustGestures": {
+    "local": "1.0.5",
+    "latest": "1.0.5",
+    "source": "Codefling"
+  },
+  "RustRewards": {
+    "local": "3.2.4",
+    "latest": "3.2.4",
+    "source": "Codefling"
+  },
+  "ServerArmour": {
+    "local": "2.83.7",
+    "latest": "2.83.7",
+    "source": "Codefling"
+  },
+  "ServerArmourElo": {
+    "local": "1.0.3",
+    "latest": "1.0.3",
+    "source": "Codefling"
+  },
+  "Skinner": {
+    "local": "3.1.1",
+    "latest": "3.1.3",
+    "source": "Codefling"
+  },
+  "SpectateHelper": {
+    "local": "1.3.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "Sputnik": {
+    "local": "1.5.6",
+    "latest": "1.5.6",
+    "source": "Codefling"
+  },
+  "StackSizeController": {
+    "local": "4.1.3",
+    "latest": "1.0.0",
+    "source": "Codefling"
+  },
+  "UltimateCases": {
+    "local": "1.0.12",
+    "latest": "1.0.19",
+    "source": "Codefling"
+  },
+  "UnderwearSelection": {
+    "local": "1.0.4",
+    "latest": "1.0.4",
+    "source": "Codefling"
+  },
+  "Vanish": {
+    "local": "2.1.2",
+    "latest": "2.1.2",
+    "source": "uMod"
+  },
+  "WaterTreatmentEvent": {
+    "local": "2.1.1",
+    "latest": "2.1.1",
+    "source": "Codefling"
+  }
+}

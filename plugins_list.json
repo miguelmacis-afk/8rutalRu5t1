@@ -1,17 +1,27 @@
 [
   {
+    "Name": "AbandonedBases",
+    "Version": "2.2.6",
+    "Author": "nivex"
+  },
+  {
+    "Name": "AdminAntiHackFix",
+    "Version": "1.0.0",
+    "Author": "Solarix"
+  },
+  {
     "Name": "AdminDeepCover",
-    "Version": "2.2.8",
+    "Version": "2.2.9",
     "Author": "Dana"
   },
   {
     "Name": "AdminPanel",
-    "Version": "1.4.7",
+    "Version": "1.4.8",
     "Author": "nivex"
   },
   {
     "Name": "AdminRadar",
-    "Version": "5.4.2",
+    "Version": "5.4.3",
     "Author": "nivex"
   },
   {
@@ -21,17 +31,37 @@
   },
   {
     "Name": "Airstrike",
-    "Version": "0.3.6",
+    "Version": "0.3.7",
     "Author": "k1lly0u"
   },
   {
-    "Name": "BiomeWeedSystem",
-    "Version": "1.1.2",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+    "Name": "Arkan",
+    "Version": "1.0.22",
+    "Author": "Antidote"
+  },
+  {
+    "Name": "ArmoredTrain",
+    "Version": "2.0.0",
+    "Author": "Adem"
+  },
+  {
+    "Name": "AutoBan",
+    "Version": "2.2.2",
+    "Author": "Grejory"
+  },
+  {
+    "Name": "Backpacks",
+    "Version": "3.17.3",
+    "Author": "WhiteThunder"
+  },
+  {
+    "Name": "BetterChat",
+    "Version": "5.2.15",
+    "Author": "LaserHydra"
   },
   {
     "Name": "CargoConvoy",
-    "Version": "1.0.15",
+    "Version": "1.0.16",
     "Author": "CrazyRust"
   },
   {
@@ -40,13 +70,18 @@
     "Author": "Pho3niX90"
   },
   {
+    "Name": "Convoy",
+    "Version": "2.9.8",
+    "Author": "Adem"
+  },
+  {
     "Name": "CopyPaste",
-    "Version": "4.2.5",
+    "Version": "4.2.7",
     "Author": "misticos"
   },
   {
     "Name": "DeathNotes",
-    "Version": "6.5.4",
+    "Version": "6.5.5",
     "Author": "Terceran/Mr. Blue"
   },
   {
@@ -55,14 +90,24 @@
     "Author": "Slut & traducciones by ☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
+    "Name": "DiscordPresence",
+    "Version": "3.0.1",
+    "Author": "MJSU"
+  },
+  {
     "Name": "DiscordWipe",
     "Version": "2.4.3",
     "Author": "MJSU"
   },
   {
     "Name": "Duelist",
-    "Version": "1.3.9",
+    "Version": "1.4.2",
     "Author": "nivex"
+  },
+  {
+    "Name": "DungeonEvents",
+    "Version": "3.9.5",
+    "Author": "Martian"
   },
   {
     "Name": "Economics",
@@ -70,34 +115,124 @@
     "Author": "Wulf"
   },
   {
-    "Name": "ExtendedRecycler",
-    "Version": "1.2.6",
-    "Author": "beee/The Friendly Chap"
+    "Name": "EntityOwner",
+    "Version": "3.4.3",
+    "Author": "Calytic"
   },
   {
     "Name": "FerryTerminalEvent",
-    "Version": "1.2.0",
+    "Version": "1.5.2",
     "Author": "Yac Vaguer"
   },
   {
+    "Name": "MagicFerryTerminalEventPanel",
+    "Version": "1.0.0",
+    "Author": "MJSU edit DeutscherRitterPlatz"
+  },
+  {
+    "Name": "GasStationEvent",
+    "Version": "1.3.7",
+    "Author": "KpucTaJl"
+  },
+  {
     "Name": "ImageLibrary",
-    "Version": "2.0.63",
+    "Version": "2.0.64",
     "Author": "Absolut & K1lly0u"
   },
   {
-    "Name": "MiAdminPanelPlayers",
+    "Name": "KillRecords",
+    "Version": "1.3.902",
+    "Author": "MACHIN3"
+  },
+  {
+    "Name": "LangAPI",
+    "Version": "1.0.5",
+    "Author": "Khan"
+  },
+  {
+    "Name": "MagicAirStrikePanel",
+    "Version": "1.0.4",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicAirdropPanel",
     "Version": "1.0.2",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+    "Author": "MJSU"
   },
   {
-    "Name": "MiAntiWipeF15",
-    "Version": "2.0.0",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+    "Name": "MagicArmoredTrainEventPanel",
+    "Version": "1.0.3",
+    "Author": "MJSU edit MeinRust"
   },
   {
-    "Name": "MiBuoyantHelicopters",
-    "Version": "2.2.0",
-    "Author": "Gemini"
+    "Name": "MagicBradleyPanel",
+    "Version": "1.0.2",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicCargoShipPanel",
+    "Version": "1.0.2",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicCh47Panel",
+    "Version": "1.0.2",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicConvoyEventPanel",
+    "Version": "1.0.2",
+    "Author": "MJSU edit MeinRust"
+  },
+  {
+    "Name": "MagicDeathNotesPanel",
+    "Version": "1.0.2",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicEconomicsPanel",
+    "Version": "1.0.8",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicGasStationEventPanel",
+    "Version": "1.0.1",
+    "Author": "MJSU edit by MeinRust"
+  },
+  {
+    "Name": "MagicHeliPanel",
+    "Version": "1.0.4",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicOilRigPanel",
+    "Version": "1.0.4",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicPanel",
+    "Version": "1.0.8",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicRainOfFirePanel",
+    "Version": "1.0.2",
+    "Author": "MJSU"
+  },
+  {
+    "Name": "MagicSputnikEventPanel",
+    "Version": "1.0.2",
+    "Author": "MJSU edit MeinRust"
+  },
+  {
+    "Name": "MagicWaterTreatmentShowdownEventPanel",
+    "Version": "1.0.0",
+    "Author": "MJSU edit DeutscherRitterPlatz"
+  },
+  {
+    "Name": "MiAdminTeamHub",
+    "Version": "1.0.0",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
     "Name": "MiCustomLoot",
@@ -106,12 +241,17 @@
   },
   {
     "Name": "MiCustomTC",
-    "Version": "12.0.2",
+    "Version": "12.0.8",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
     "Name": "MiEventController",
-    "Version": "4.4.7",
+    "Version": "4.4.10",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "MiGiantExcavatorEvent",
+    "Version": "31.0.35",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
@@ -121,27 +261,27 @@
   },
   {
     "Name": "MiHordaNocturna",
+    "Version": "1.2.2",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "MiPetroReinforcements",
+    "Version": "2.2.2",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "MiRadTownEvent",
+    "Version": "2.4.0",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "MiSphereEvent",
+    "Version": "2.4.0",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "MiStructure",
     "Version": "1.2.0",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
-    "Name": "MiMagicAllInOnePanels",
-    "Version": "1.0.0",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
-    "Name": "MiParkourPro",
-    "Version": "26.0.0",
-    "Author": "Miguel"
-  },
-  {
-    "Name": "MiPerformanceMonitor",
-    "Version": "1.1.0",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
-    "Name": "MiUniversalTranslator",
-    "Version": "3.0.0",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
@@ -155,6 +295,11 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
+    "Name": "MiWelcomeInfo",
+    "Version": "1.1.1",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
     "Name": "MonumentFinder",
     "Version": "3.1.5",
     "Author": "WhiteThunder"
@@ -165,28 +310,18 @@
     "Author": "Wulf"
   },
   {
-    "Name": "NpcRaidEvent",
-    "Version": "1.0.0",
-    "Author": "Miguel"
-  },
-  {
     "Name": "NpcSpawn",
-    "Version": "3.1.9",
+    "Version": "3.3.6",
     "Author": "KpucTaJl"
   },
   {
-    "Name": "OfflineRaidProtection",
-    "Version": "1.3.1",
-    "Author": "realedwin/HunterZ"
-  },
-  {
     "Name": "Paraplane",
-    "Version": "1.0.6",
+    "Version": "1.0.7",
     "Author": "Adem"
   },
   {
     "Name": "PermissionsManager",
-    "Version": "2.0.9",
+    "Version": "2.1.0",
     "Author": "Steenamaroo"
   },
   {
@@ -200,38 +335,63 @@
     "Author": "ThibmoRozier"
   },
   {
+    "Name": "PlayerDLCAPI",
+    "Version": "1.6.2",
+    "Author": "k1lly0u"
+  },
+  {
     "Name": "PlaytimeTracker",
     "Version": "0.2.2",
     "Author": "k1lly0u"
   },
   {
+    "Name": "Pop",
+    "Version": "1.8.0",
+    "Author": "Sigilo"
+  },
+  {
+    "Name": "PortableVehicles",
+    "Version": "1.2.0",
+    "Author": "Paulsimik"
+  },
+  {
+    "Name": "RadioStationManager",
+    "Version": "1.0.4",
+    "Author": "Whispers88"
+  },
+  {
+    "Name": "RaidableBases",
+    "Version": "3.1.5",
+    "Author": "nivex"
+  },
+  {
     "Name": "RainOfFire",
-    "Version": "0.2.52",
+    "Version": "0.2.53",
     "Author": "emu / k1lly0u"
   },
   {
     "Name": "RemoverTool",
-    "Version": "4.3.46",
+    "Version": "4.3.47",
     "Author": "Reneb/Fuji/Arainrr/Tryhard"
   },
   {
     "Name": "RustAppLite",
-    "Version": "1.1.0",
+    "Version": "1.0.11",
     "Author": "RustApp"
   },
   {
     "Name": "RustGestures",
-    "Version": "1.0.5",
+    "Version": "1.0.6",
     "Author": "Beast_"
   },
   {
     "Name": "RustRewards",
-    "Version": "3.2.4",
+    "Version": "3.2.5",
     "Author": "Steenamaroo"
   },
   {
     "Name": "ServerArmour",
-    "Version": "2.83.7",
+    "Version": "2.83.17",
     "Author": "Pho3niX90"
   },
   {
@@ -240,18 +400,38 @@
     "Author": "Pho3niX90"
   },
   {
+    "Name": "ServerManagerPro",
+    "Version": "2.1.4",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "SimpleStatus",
+    "Version": "1.2.11",
+    "Author": "mr01sam"
+  },
+  {
+    "Name": "SkillTree",
+    "Version": "1.7.11",
+    "Author": "imthenewguy"
+  },
+  {
     "Name": "Skinner",
-    "Version": "3.1.1",
+    "Version": "3.1.5",
     "Author": "Whispers88"
   },
   {
-    "Name": "SpectateHelper",
-    "Version": "1.3.0",
-    "Author": "Gemini"
+    "Name": "SortButton",
+    "Version": "2.7.0",
+    "Author": "WhiteThunder, MON@H"
+  },
+  {
+    "Name": "SpawnHeli",
+    "Version": "3.2.0",
+    "Author": "SpooksAU"
   },
   {
     "Name": "Sputnik",
-    "Version": "1.5.6",
+    "Version": "1.5.8",
     "Author": "Adem"
   },
   {
@@ -260,8 +440,18 @@
     "Author": "AnExiledDev / Optimized by ☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
+    "Name": "TheWalkingDead",
+    "Version": "1.0.10",
+    "Author": "M&B-Studios & Krungh Crow"
+  },
+  {
+    "Name": "TruePVE",
+    "Version": "2.3.7",
+    "Author": "nivex"
+  },
+  {
     "Name": "UltimateCases",
-    "Version": "1.0.12",
+    "Version": "1.0.25",
     "Author": "Mevent"
   },
   {
@@ -270,18 +460,33 @@
     "Author": "Mevent"
   },
   {
-    "Name": "UnderwearSelection",
-    "Version": "1.0.4",
-    "Author": "Marat"
-  },
-  {
     "Name": "Vanish",
-    "Version": "2.1.2",
+    "Version": "2.1.3",
     "Author": "Whispers88"
   },
   {
     "Name": "WaterTreatmentEvent",
-    "Version": "2.1.1",
+    "Version": "2.2.3",
     "Author": "Yac Vaguer"
+  },
+  {
+    "Name": "ZombieRocks",
+    "Version": "1.5.3",
+    "Author": "Krungh Crow"
+  },
+  {
+    "Name": "ZoneManager",
+    "Version": "3.1.11",
+    "Author": "k1lly0u"
+  },
+  {
+    "Name": "DynamicPVP",
+    "Version": "5.0.2",
+    "Author": "HunterZ/CatMeat/Arainrr"
+  },
+  {
+    "Name": "ZonePVxInfo",
+    "Version": "1.1.9",
+    "Author": "Mabel"
   }
 ]

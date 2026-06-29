@@ -390,8 +390,8 @@
     "source": "Codefling"
   },
   "ServerArmour": {
-    "local": "2.83.17",
-    "latest": "2.83.17",
+    "local": "2.84.0",
+    "latest": "2.84.0",
     "source": "Codefling"
   },
   "ServerArmourElo": {
@@ -451,7 +451,7 @@
   },
   "UltimateCases": {
     "local": "1.0.25",
-    "latest": "1.0.25",
+    "latest": "1.0.26",
     "source": "Codefling"
   },
   "Vanish": {

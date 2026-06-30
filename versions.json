@@ -51,7 +51,7 @@
   },
   "Backpacks": {
     "local": "3.17.3",
-    "latest": "3.17.3",
+    "latest": "3.17.4",
     "source": "uMod"
   },
   "BetterChat": {
@@ -105,8 +105,8 @@
     "source": "uMod"
   },
   "DungeonEvents": {
-    "local": "3.9.5",
-    "latest": "3.9.5",
+    "local": "3.9.6",
+    "latest": "3.9.6",
     "source": "Codefling"
   },
   "Economics": {

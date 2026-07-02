@@ -51,7 +51,7 @@
   },
   {
     "Name": "Backpacks",
-    "Version": "3.17.3",
+    "Version": "3.17.4",
     "Author": "WhiteThunder"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "Name": "CombatLogInfo",
-    "Version": "1.0.13",
+    "Version": "1.0.19",
     "Author": "Pho3niX90"
   },
   {
@@ -245,13 +245,13 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
-    "Name": "MiEventController",
-    "Version": "4.4.10",
+    "Name": "MiRadTownEvent",
+    "Version": "2.4.1",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
     "Name": "MiGiantExcavatorEvent",
-    "Version": "31.0.35",
+    "Version": "31.1.0",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
@@ -270,8 +270,8 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
-    "Name": "MiRadTownEvent",
-    "Version": "2.4.0",
+    "Name": "MiAirfieldEvent",
+    "Version": "2.2.2",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "Name": "ServerArmour",
-    "Version": "2.84.0",
+    "Version": "2.84.4",
     "Author": "Pho3niX90"
   },
   {
@@ -488,5 +488,10 @@
     "Name": "ZonePVxInfo",
     "Version": "1.1.9",
     "Author": "Mabel"
+  },
+  {
+    "Name": "MiEventController",
+    "Version": "4.4.10",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   }
 ]

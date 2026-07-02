@@ -235,6 +235,11 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
+    "Name": "MiAirfieldEvent",
+    "Version": "2.2.2",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
     "Name": "MiCustomLoot",
     "Version": "1.0.5",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
@@ -245,8 +250,8 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
-    "Name": "MiRadTownEvent",
-    "Version": "2.4.1",
+    "Name": "MiEventController",
+    "Version": "4.4.10",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
@@ -265,13 +270,8 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
-    "Name": "MiPetroReinforcements",
-    "Version": "2.2.2",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
-    "Name": "MiAirfieldEvent",
-    "Version": "2.2.2",
+    "Name": "MiRadTownEvent",
+    "Version": "2.4.1",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
@@ -488,10 +488,5 @@
     "Name": "ZonePVxInfo",
     "Version": "1.1.9",
     "Author": "Mabel"
-  },
-  {
-    "Name": "MiEventController",
-    "Version": "4.4.10",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   }
 ]

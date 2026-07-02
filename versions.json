@@ -234,6 +234,11 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
+  "MiAirfieldEvent": {
+    "local": "2.2.2",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
   "MiCustomLoot": {
     "local": "1.0.5",
     "latest": "\u274c",
@@ -244,8 +249,8 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "MiRadTownEvent": {
-    "local": "2.4.1",
+  "MiEventController": {
+    "local": "4.4.10",
     "latest": "\u274c",
     "source": "Ninguna"
   },
@@ -264,13 +269,8 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "MiPetroReinforcements": {
-    "local": "2.2.2",
-    "latest": "\u274c",
-    "source": "Ninguna"
-  },
-  "MiAirfieldEvent": {
-    "local": "2.2.2",
+  "MiRadTownEvent": {
+    "local": "2.4.1",
     "latest": "\u274c",
     "source": "Ninguna"
   },
@@ -483,10 +483,5 @@
     "local": "1.1.9",
     "latest": "1.1.9",
     "source": "uMod"
-  },
-  "MiEventController": {
-    "local": "4.4.10",
-    "latest": "\u274c",
-    "source": "Ninguna"
   }
 }

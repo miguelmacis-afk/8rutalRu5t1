@@ -75,11 +75,6 @@
     "Author": "Adem"
   },
   {
-    "Name": "CopyPaste",
-    "Version": "4.2.7",
-    "Author": "misticos"
-  },
-  {
     "Name": "DeathNotes",
     "Version": "6.5.5",
     "Author": "Terceran/Mr. Blue"
@@ -133,11 +128,6 @@
     "Name": "GasStationEvent",
     "Version": "1.3.7",
     "Author": "KpucTaJl"
-  },
-  {
-    "Name": "ImageLibrary",
-    "Version": "2.0.64",
-    "Author": "Absolut & K1lly0u"
   },
   {
     "Name": "KillRecords",
@@ -245,11 +235,6 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
-    "Name": "MiCustomTC",
-    "Version": "12.0.8",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
     "Name": "MiEventController",
     "Version": "4.4.10",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
@@ -308,11 +293,6 @@
     "Name": "NoGiveNotices",
     "Version": "0.3.0",
     "Author": "Wulf"
-  },
-  {
-    "Name": "NpcSpawn",
-    "Version": "3.3.6",
-    "Author": "KpucTaJl"
   },
   {
     "Name": "Paraplane",
@@ -460,11 +440,6 @@
     "Author": "Mevent"
   },
   {
-    "Name": "Vanish",
-    "Version": "2.1.3",
-    "Author": "Whispers88"
-  },
-  {
     "Name": "WaterTreatmentEvent",
     "Version": "2.2.3",
     "Author": "Yac Vaguer"
@@ -473,16 +448,6 @@
     "Name": "ZombieRocks",
     "Version": "1.5.3",
     "Author": "Krungh Crow"
-  },
-  {
-    "Name": "ZoneManager",
-    "Version": "3.1.11",
-    "Author": "k1lly0u"
-  },
-  {
-    "Name": "DynamicPVP",
-    "Version": "5.0.2",
-    "Author": "HunterZ/CatMeat/Arainrr"
   },
   {
     "Name": "ZonePVxInfo",

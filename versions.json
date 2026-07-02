@@ -444,9 +444,9 @@
     "latest": "1.0.10",
     "source": "Codefling"
   },
-  "ZoneManager": {
-    "local": "3.1.11",
-    "latest": "3.1.11",
+  "TruePVE": {
+    "local": "2.3.7",
+    "latest": "2.3.7",
     "source": "uMod"
   },
   "UltimateCases": {
@@ -469,14 +469,14 @@
     "latest": "1.5.3",
     "source": "Codefling"
   },
+  "ZoneManager": {
+    "local": "3.1.11",
+    "latest": "3.1.11",
+    "source": "uMod"
+  },
   "DynamicPVP": {
     "local": "5.0.2",
     "latest": "5.0.2",
-    "source": "uMod"
-  },
-  "TruePVE": {
-    "local": "2.3.7",
-    "latest": "2.3.7",
     "source": "uMod"
   },
   "ZonePVxInfo": {

@@ -50,7 +50,7 @@
     "source": "Codefling"
   },
   "Backpacks": {
-    "local": "3.17.3",
+    "local": "3.17.4",
     "latest": "3.17.4",
     "source": "uMod"
   },
@@ -65,7 +65,7 @@
     "source": "Codefling"
   },
   "CombatLogInfo": {
-    "local": "1.0.13",
+    "local": "1.0.19",
     "latest": "1.0.19",
     "source": "Codefling"
   },
@@ -244,13 +244,13 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "MiEventController": {
-    "local": "4.4.10",
+  "MiRadTownEvent": {
+    "local": "2.4.1",
     "latest": "\u274c",
     "source": "Ninguna"
   },
   "MiGiantExcavatorEvent": {
-    "local": "31.0.35",
+    "local": "31.1.0",
     "latest": "\u274c",
     "source": "Ninguna"
   },
@@ -269,8 +269,8 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "MiRadTownEvent": {
-    "local": "2.4.0",
+  "MiAirfieldEvent": {
+    "local": "2.2.2",
     "latest": "\u274c",
     "source": "Ninguna"
   },
@@ -321,7 +321,7 @@
   },
   "PermissionsManager": {
     "local": "2.1.0",
-    "latest": "2.1.0",
+    "latest": "2.1.2",
     "source": "Codefling"
   },
   "PlaceholderAPI": {
@@ -390,7 +390,7 @@
     "source": "Codefling"
   },
   "ServerArmour": {
-    "local": "2.84.0",
+    "local": "2.84.4",
     "latest": "2.84.4",
     "source": "Codefling"
   },
@@ -416,7 +416,7 @@
   },
   "Skinner": {
     "local": "3.1.5",
-    "latest": "3.1.5",
+    "latest": "3.1.6",
     "source": "Codefling"
   },
   "SortButton": {
@@ -483,5 +483,10 @@
     "local": "1.1.9",
     "latest": "1.1.9",
     "source": "uMod"
+  },
+  "MiEventController": {
+    "local": "4.4.10",
+    "latest": "\u274c",
+    "source": "Ninguna"
   }
 }

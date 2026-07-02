@@ -66,7 +66,7 @@
   },
   "CombatLogInfo": {
     "local": "1.0.13",
-    "latest": "1.0.12",
+    "latest": "1.0.19",
     "source": "Codefling"
   },
   "Convoy": {
@@ -279,11 +279,6 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "MiStructure": {
-    "local": "1.2.0",
-    "latest": "\u274c",
-    "source": "Ninguna"
-  },
   "MiVehicleSignals": {
     "local": "1.1.3",
     "latest": "\u274c",
@@ -391,7 +386,7 @@
   },
   "ServerArmour": {
     "local": "2.84.0",
-    "latest": "2.84.0",
+    "latest": "2.84.4",
     "source": "Codefling"
   },
   "ServerArmourElo": {
@@ -444,11 +439,6 @@
     "latest": "1.0.10",
     "source": "Codefling"
   },
-  "TruePVE": {
-    "local": "2.3.7",
-    "latest": "2.3.7",
-    "source": "uMod"
-  },
   "UltimateCases": {
     "local": "1.0.26",
     "latest": "1.0.26",
@@ -468,16 +458,6 @@
     "local": "1.5.3",
     "latest": "1.5.3",
     "source": "Codefling"
-  },
-  "ZoneManager": {
-    "local": "3.1.11",
-    "latest": "3.1.11",
-    "source": "uMod"
-  },
-  "DynamicPVP": {
-    "local": "5.0.2",
-    "latest": "5.0.2",
-    "source": "uMod"
   },
   "ZonePVxInfo": {
     "local": "1.1.9",

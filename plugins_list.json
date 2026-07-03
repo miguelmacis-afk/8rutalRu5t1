@@ -493,5 +493,10 @@
     "Name": "MiCustomTC",
     "Version": "12.0.8",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "DiscordAuth",
+    "Version": "1.4.0",
+    "Author": "OuTSMoKE"
   }
 ]

@@ -488,5 +488,10 @@
     "local": "12.0.8",
     "latest": "\u274c",
     "source": "Ninguna"
+  },
+  "DiscordAuth": {
+    "local": "1.4.0",
+    "latest": "1.4.0",
+    "source": "uMod"
   }
 }

@@ -478,5 +478,10 @@
     "local": "1.1.9",
     "latest": "1.1.9",
     "source": "uMod"
+  },
+  "MiPetroReinforcements": {
+    "local": "2.3.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
   }
 }

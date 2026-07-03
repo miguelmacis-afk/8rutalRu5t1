@@ -40,6 +40,11 @@
     "Author": "Antidote"
   },
   {
+    "Name": "ArmoredTrain",
+    "Version": "2.0.0",
+    "Author": "Adem"
+  },
+  {
     "Name": "AutoBan",
     "Version": "2.2.2",
     "Author": "Grejory"
@@ -55,14 +60,24 @@
     "Author": "LaserHydra"
   },
   {
+    "Name": "CargoConvoy",
+    "Version": "1.0.16",
+    "Author": "CrazyRust"
+  },
+  {
     "Name": "CombatLogInfo",
     "Version": "1.0.19",
     "Author": "Pho3niX90"
   },
   {
-    "Name": "Vanish",
-    "Version": "2.1.4",
-    "Author": "Whispers88"
+    "Name": "Convoy",
+    "Version": "2.9.8",
+    "Author": "Adem"
+  },
+  {
+    "Name": "CopyPaste",
+    "Version": "4.2.8",
+    "Author": "misticos"
   },
   {
     "Name": "DeathNotes",
@@ -118,6 +133,11 @@
     "Name": "GasStationEvent",
     "Version": "1.3.7",
     "Author": "KpucTaJl"
+  },
+  {
+    "Name": "ImageLibrary",
+    "Version": "2.0.65",
+    "Author": "Absolut & K1lly0u"
   },
   {
     "Name": "KillRecords",
@@ -285,6 +305,11 @@
     "Author": "Wulf"
   },
   {
+    "Name": "NpcSpawn",
+    "Version": "3.3.7",
+    "Author": "KpucTaJl"
+  },
+  {
     "Name": "Paraplane",
     "Version": "1.0.7",
     "Author": "Adem"
@@ -350,9 +375,9 @@
     "Author": "RustApp"
   },
   {
-    "Name": "NpcSpawn",
-    "Version": "3.3.7",
-    "Author": "KpucTaJl"
+    "Name": "RustGestures",
+    "Version": "1.0.6",
+    "Author": "Beast_"
   },
   {
     "Name": "RustRewards",
@@ -400,9 +425,9 @@
     "Author": "SpooksAU"
   },
   {
-    "Name": "ImageLibrary",
-    "Version": "2.0.65",
-    "Author": "Absolut & K1lly0u"
+    "Name": "Sputnik",
+    "Version": "1.5.8",
+    "Author": "Adem"
   },
   {
     "Name": "StackSizeController",
@@ -430,6 +455,11 @@
     "Author": "Mevent"
   },
   {
+    "Name": "Vanish",
+    "Version": "2.1.4",
+    "Author": "Whispers88"
+  },
+  {
     "Name": "WaterTreatmentEvent",
     "Version": "2.2.3",
     "Author": "Yac Vaguer"
@@ -438,6 +468,16 @@
     "Name": "ZombieRocks",
     "Version": "1.5.3",
     "Author": "Krungh Crow"
+  },
+  {
+    "Name": "ZoneManager",
+    "Version": "3.1.12",
+    "Author": "k1lly0u"
+  },
+  {
+    "Name": "DynamicPVP",
+    "Version": "5.0.2",
+    "Author": "HunterZ/CatMeat/Arainrr"
   },
   {
     "Name": "ZonePVxInfo",

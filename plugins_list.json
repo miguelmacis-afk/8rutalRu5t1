@@ -85,6 +85,11 @@
     "Author": "Terceran/Mr. Blue"
   },
   {
+    "Name": "DiscordAuth",
+    "Version": "1.4.0",
+    "Author": "OuTSMoKE"
+  },
+  {
     "Name": "DiscordMessages",
     "Version": "2.1.8",
     "Author": "Slut & traducciones by ☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
@@ -245,6 +250,11 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
+    "Name": "MiCustomTC",
+    "Version": "12.0.8",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
     "Name": "MiEventController",
     "Version": "4.4.10",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
@@ -262,6 +272,11 @@
   {
     "Name": "MiHordaNocturna",
     "Version": "1.2.2",
+    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
+  },
+  {
+    "Name": "MiPetroReinforcements",
+    "Version": "2.3.0",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
@@ -483,20 +498,5 @@
     "Name": "ZonePVxInfo",
     "Version": "1.1.9",
     "Author": "Mabel"
-  },
-  {
-    "Name": "MiPetroReinforcements",
-    "Version": "2.3.0",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
-    "Name": "MiCustomTC",
-    "Version": "12.0.8",
-    "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
-    "Name": "DiscordAuth",
-    "Version": "1.4.0",
-    "Author": "OuTSMoKE"
   }
 ]

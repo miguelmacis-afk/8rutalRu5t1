@@ -46,7 +46,7 @@
   },
   "AutoBan": {
     "local": "2.2.2",
-    "latest": "2.2.2",
+    "latest": "2.2.3",
     "source": "Codefling"
   },
   "Backpacks": {
@@ -82,6 +82,11 @@
   "DeathNotes": {
     "local": "6.5.5",
     "latest": "6.5.5",
+    "source": "uMod"
+  },
+  "DiscordAuth": {
+    "local": "1.4.0",
+    "latest": "1.4.0",
     "source": "uMod"
   },
   "DiscordMessages": {
@@ -244,6 +249,11 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
+  "MiCustomTC": {
+    "local": "12.0.8",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
   "MiEventController": {
     "local": "4.4.10",
     "latest": "\u274c",
@@ -261,6 +271,11 @@
   },
   "MiHordaNocturna": {
     "local": "1.2.2",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiPetroReinforcements": {
+    "local": "2.3.0",
     "latest": "\u274c",
     "source": "Ninguna"
   },
@@ -477,21 +492,6 @@
   "ZonePVxInfo": {
     "local": "1.1.9",
     "latest": "1.1.9",
-    "source": "uMod"
-  },
-  "MiPetroReinforcements": {
-    "local": "2.3.0",
-    "latest": "\u274c",
-    "source": "Ninguna"
-  },
-  "MiCustomTC": {
-    "local": "12.0.8",
-    "latest": "\u274c",
-    "source": "Ninguna"
-  },
-  "DiscordAuth": {
-    "local": "1.4.0",
-    "latest": "1.4.0",
     "source": "uMod"
   }
 }

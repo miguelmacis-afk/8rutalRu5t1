@@ -289,9 +289,9 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "TruePVE": {
-    "local": "2.3.7",
-    "latest": "2.3.7",
+  "DynamicPVP": {
+    "local": "5.0.2",
+    "latest": "5.0.2",
     "source": "uMod"
   },
   "MiVehicleSignals": {
@@ -454,9 +454,9 @@
     "latest": "1.0.10",
     "source": "Codefling"
   },
-  "DynamicPVP": {
-    "local": "5.0.2",
-    "latest": "5.0.2",
+  "ZoneManager": {
+    "local": "3.1.12",
+    "latest": "3.1.11",
     "source": "uMod"
   },
   "UltimateCases": {
@@ -479,15 +479,15 @@
     "latest": "1.5.3",
     "source": "Codefling"
   },
+  "TruePVE": {
+    "local": "2.3.7",
+    "latest": "2.3.7",
+    "source": "uMod"
+  },
   "MiStructure": {
     "local": "1.2.0",
     "latest": "\u274c",
     "source": "Ninguna"
-  },
-  "ZoneManager": {
-    "local": "3.1.12",
-    "latest": "3.1.11",
-    "source": "uMod"
   },
   "ZonePVxInfo": {
     "local": "1.1.9",

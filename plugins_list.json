@@ -290,9 +290,9 @@
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
   },
   {
-    "Name": "TruePVE",
-    "Version": "2.3.7",
-    "Author": "nivex"
+    "Name": "DynamicPVP",
+    "Version": "5.0.2",
+    "Author": "HunterZ/CatMeat/Arainrr"
   },
   {
     "Name": "MiVehicleSignals",
@@ -455,9 +455,9 @@
     "Author": "M&B-Studios & Krungh Crow"
   },
   {
-    "Name": "DynamicPVP",
-    "Version": "5.0.2",
-    "Author": "HunterZ/CatMeat/Arainrr"
+    "Name": "ZoneManager",
+    "Version": "3.1.12",
+    "Author": "k1lly0u"
   },
   {
     "Name": "UltimateCases",
@@ -485,14 +485,14 @@
     "Author": "Krungh Crow"
   },
   {
+    "Name": "TruePVE",
+    "Version": "2.3.7",
+    "Author": "nivex"
+  },
+  {
     "Name": "MiStructure",
     "Version": "1.2.0",
     "Author": "☠ Ⓜ🅘ⓖ🅤ⓔ🅛 ☠"
-  },
-  {
-    "Name": "ZoneManager",
-    "Version": "3.1.12",
-    "Author": "k1lly0u"
   },
   {
     "Name": "ZonePVxInfo",

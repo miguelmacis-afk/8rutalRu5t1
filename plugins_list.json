@@ -320,9 +320,9 @@
     "Author": "Mr. Blue"
   },
   {
-    "Name": "NpcSpawn",
-    "Version": "3.3.7",
-    "Author": "KpucTaJl"
+    "Name": "PermissionsManager",
+    "Version": "2.1.2",
+    "Author": "Steenamaroo"
   },
   {
     "Name": "Paraplane",
@@ -330,9 +330,9 @@
     "Author": "Adem"
   },
   {
-    "Name": "PermissionsManager",
-    "Version": "2.1.0",
-    "Author": "Steenamaroo"
+    "Name": "NpcSpawn",
+    "Version": "3.3.9",
+    "Author": "KpucTaJl"
   },
   {
     "Name": "PlaceholderAPI",

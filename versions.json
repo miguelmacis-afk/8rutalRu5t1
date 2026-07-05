@@ -279,20 +279,20 @@
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "MiSphereEvent": {
-    "local": "2.4.0",
-    "latest": "\u274c",
-    "source": "Ninguna"
-  },
   "MiRadTownEvent": {
     "local": "2.4.1",
     "latest": "\u274c",
     "source": "Ninguna"
   },
-  "DynamicPVP": {
-    "local": "5.0.2",
-    "latest": "5.0.2",
-    "source": "uMod"
+  "MiSphereEvent": {
+    "local": "2.4.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
+  },
+  "MiStructure": {
+    "local": "1.2.0",
+    "latest": "\u274c",
+    "source": "Ninguna"
   },
   "MiVehicleSignals": {
     "local": "1.1.3",
@@ -454,9 +454,9 @@
     "latest": "1.0.10",
     "source": "Codefling"
   },
-  "ZoneManager": {
-    "local": "3.1.12",
-    "latest": "3.1.11",
+  "TruePVE": {
+    "local": "2.3.7",
+    "latest": "2.3.7",
     "source": "uMod"
   },
   "UltimateCases": {
@@ -479,15 +479,15 @@
     "latest": "1.5.3",
     "source": "Codefling"
   },
-  "TruePVE": {
-    "local": "2.3.7",
-    "latest": "2.3.7",
+  "ZoneManager": {
+    "local": "3.1.12",
+    "latest": "3.1.11",
     "source": "uMod"
   },
-  "MiStructure": {
-    "local": "1.2.0",
-    "latest": "\u274c",
-    "source": "Ninguna"
+  "DynamicPVP": {
+    "local": "5.0.2",
+    "latest": "5.0.2",
+    "source": "uMod"
   },
   "ZonePVxInfo": {
     "local": "1.1.9",

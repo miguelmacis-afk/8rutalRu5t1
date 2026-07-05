@@ -319,9 +319,9 @@
     "latest": "0.3.0",
     "source": "uMod"
   },
-  "NpcSpawn": {
-    "local": "3.3.7",
-    "latest": "3.3.9",
+  "PermissionsManager": {
+    "local": "2.1.2",
+    "latest": "2.1.2",
     "source": "Codefling"
   },
   "Paraplane": {
@@ -329,9 +329,9 @@
     "latest": "1.0.7",
     "source": "Codefling"
   },
-  "PermissionsManager": {
-    "local": "2.1.0",
-    "latest": "2.1.2",
+  "NpcSpawn": {
+    "local": "3.3.9",
+    "latest": "3.3.9",
     "source": "Codefling"
   },
   "PlaceholderAPI": {
